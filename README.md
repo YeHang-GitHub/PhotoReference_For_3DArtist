@@ -12,7 +12,7 @@ This is a place to gather various interesting references. Feel free to contribut
 # How to add new photo into this repo
 So you must be an artist if you are viewing this page, not familiar with Github? No problem, here is a step by step guidefor you.
 ## If you just want to download this repo
-Ok that is simple. Just hit the big <span style="color:green"><b><>Code</b></span> button download code and you're good to go. It's recommend to use [eagle](https://eagle.cool/)(paid software) or [connector](https://www.designconnected.com/connecter)(free) to have a better view for all image.
+Ok that is simple. Just hit the big <span style="color:green"><b><>Code</b></span> button download code and you're good to go. It's recommend to use [Allusion](https://github.com/allusion-app/Allusion/releases/tag/v1.0.0-rc.10)(free) to have a better view for all image.
 ## If you want to add photo into this repo 
 1. Fork this repo and you should see it under your account. Here is a nice [video](https://youtu.be/l5NrYIa_aG4?si=R6nSTizKkbQV65Uw) should help you to do this. Install [GithubDesktop](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop) for better user experience of Git.
 2. Clone the repo that you just forked.
