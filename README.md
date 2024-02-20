@@ -16,8 +16,12 @@ Ok that is simple. Just hit the big <span style="color:green"><b><>Code</b></spa
 ## If you want to add photo into this repo 
 1. Fork this repo and you should see it under your account. Here is a nice [video](https://youtu.be/l5NrYIa_aG4?si=R6nSTizKkbQV65Uw) should help you to do this. Install [GithubDesktop](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop) for better user experience of Git.
 2. Clone the repo that you just forked.
-3. Add photo base on the rules(I will add some rule for naming later).
+3. Add photo base on the rules.
 4. Commit it to your local repo and push it.
 5. Create a pull request so I can check the file and merge it back to main branch.
+### Rules:
+1. Size not bigger than 30 mb
+2. Name should be like "2024-01-18_2.jpg" "year-mounth-date_number.jpg"
+
 
 Hope you are enjoy :)
